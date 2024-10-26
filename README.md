@@ -26,8 +26,8 @@ Ensure you have Python 3 installed to execute the code.
 Clone this repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
+git clone https://github.com/your-username/project-name.git](https://github.com/Sashank-Singh/Name-Email-Domain-Validator
+cd Name-Email-Domain-Validator
 ```
 
 ### Usage
@@ -36,7 +36,7 @@ In the script, you'll find two main functions: `validate_name` and `validate_ema
 
 ```python
 # Import functions
-from script_name import validate_name, validate_email
+from notebook import validate_name, validate_email
 
 # Validate name
 is_valid_name = validate_name("John Doe")
