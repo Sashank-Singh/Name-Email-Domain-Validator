@@ -1,4 +1,4 @@
-# Project Name
+# Name-Email-Domain-Validator
 
 ![Login](login_img.jpg)
 
