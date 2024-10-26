@@ -66,4 +66,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [singhsashank08@gmail.com](mailto:singhsashank08@gmail.com)
+Sashank Singh - [singhsashank08@gmail.com](mailto:singhsashank08@gmail.com)
