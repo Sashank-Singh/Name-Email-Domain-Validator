@@ -26,7 +26,7 @@ Ensure you have Python 3 installed to execute the code.
 Clone this repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-username/project-name.git](https://github.com/Sashank-Singh/Name-Email-Domain-Validator
+git clone https://github.com/Sashank-Singh/Name-Email-Domain-Validator
 cd Name-Email-Domain-Validator
 ```
 
